@@ -1,0 +1,7 @@
+Nmap scan report for localhost (127.0.0.1)
+PORT     STATE SERVICE       VERSION
+80/tcp   open  http          Microsoft IIS httpd 10.0
+135/tcp  open  msrpc         Microsoft Windows RPC
+445/tcp  open  microsoft-ds?
+5432/tcp open  postgresql    PostgreSQL DB 9.6.0 or later
+Nmap done: 1 IP address scanned
